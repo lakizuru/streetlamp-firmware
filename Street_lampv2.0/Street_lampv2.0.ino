@@ -52,8 +52,8 @@
 #include <FirebaseArduino.h>
 #define FIREBASE_HOST "iotstreetlamp-default-rtdb.asia-southeast1.firebasedatabase.app"
 #define FIREBASE_AUTH "jXckUdOhyOaMahD3eEqNyPHYQd8DoOaZCMBEokpG"
-#define WIFI_SSID "Lucky 3241"
-#define WIFI_PASSWORD "pushpa6633"
+#define WIFI_SSID "xxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxx"
 
 //Varibales to control the strip
 #include <Adafruit_NeoPixel.h>
